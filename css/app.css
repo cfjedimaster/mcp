@@ -1,0 +1,10 @@
+body {
+	background-color: black;
+	color: #03FF33;
+	font-family: "Consolas";
+	margin: 20px;
+}
+
+[x-cloak] {display: none}
+
+
